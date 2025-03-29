@@ -4,7 +4,7 @@ Each lab is in a subdirectory to make it easier to understand
 
 ## How to use uv
 
-1. Install python `uv install python`
+1. Install python `uv python install`
 2. Make the virtual env `uv venv`
 3. Activate the venv `.\.venv\Scripts\activate`
 4. `uv init` and `uv add ipykernel` to be able to use the notebook
